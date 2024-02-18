@@ -61,13 +61,14 @@ h1 {
 }
 
 #contador-productos {
-    font-size: 12px;
+    font-size: 20px;
 }
 
 .container-cart-products {
     position: absolute;
-    top: 50px;
-    right: 0;
+    top: 30px;
+    right:40px;
+    
 
     background-color: #fff;
     width: 400px;
